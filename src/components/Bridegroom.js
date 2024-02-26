@@ -67,9 +67,9 @@ function Bridegroom() {
                   </h6>{" "}
                   <span>Chú rể</span>
                   <p>
-                    Enrico fringilla dui at elit finibus viverra nec a lacus
-                    seda themo the miss druane semper sollicitudin non the
-                    fermen.
+                    Được ai đó yêu sâu sắc sẽ mang lại cho bạn sức mạnh, trong
+                    khi yêu ai đó sâu sắc sẽ mang lại cho bạn dũng khí. Từ hôm
+                    nay em chính là sức mạnh và cũng là dũng khí của anh
                   </p>
                   {/* <div className="social">
                     <div className="full-width">

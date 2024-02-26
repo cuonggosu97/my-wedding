@@ -22,13 +22,20 @@ function Where() {
             <div className="content">
               <h5>Bữa tiệc nhà cô dâu</h5>
               <p>
-                <i className="ti-location-pin">
+                <i
+                  className="ti-location-pin"
+                  onClick={() =>
+                    window.open(
+                      "https://maps.app.goo.gl/fJF8rEbDx3xNtrGv5",
+                      "_blank"
+                    )
+                  }
+                >
                   Tiệc cưới Hoàng Gia, Nguyễn Tất Thành, Yên Thinh, Yên Bái
                 </i>
               </p>
               <p>
-                <i className="ti-time"></i>
-                <span>15:00 – 17:00pm</span>
+                <i className="ti-time">15:00 – 17:00 16/03/2024</i>
               </p>
             </div>
           </div>
@@ -40,13 +47,21 @@ function Where() {
             <div className="content">
               <h5>Lễ ăn hỏi</h5>
               <p>
-                <i className="ti-location-pin">
+                <i
+                  className="ti-location-pin"
+                  onClick={() =>
+                    window.open(
+                      "https://maps.app.goo.gl/5fATYKWTpFXnEmxk6",
+                      "_blank"
+                    )
+                  }
+                >
                   639 Đ. Đinh Tiên Hoàng, P.Yên Thịnh, Thành phố Yên Bái, Yên
                   Bái
                 </i>
               </p>
               <p>
-                <i className="ti-time"></i> <span>14:00pm</span>
+                <i className="ti-time">7:00 17/03/2024</i>
               </p>
             </div>
           </div>
@@ -58,7 +73,15 @@ function Where() {
             <div className="content">
               <h5>Lễ thành hôn</h5>
               <p>
-                <i className="ti-direction-alt">
+                <i
+                  className="ti-direction-alt"
+                  onClick={() =>
+                    window.open(
+                      "https://maps.app.goo.gl/SeMsMoVfJW6gMQwB9",
+                      "_blank"
+                    )
+                  }
+                >
                   xóm Kiên Quyết, Vô Lượng, Thống Nhất, Gia Lộc, Hải Dương
                 </i>
               </p>
