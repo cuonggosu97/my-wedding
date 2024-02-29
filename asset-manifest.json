@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/my-wedding/static/css/main.10ef8e23.chunk.css",
-    "main.js": "/my-wedding/static/js/main.6a4a2647.chunk.js",
-    "main.js.map": "/my-wedding/static/js/main.6a4a2647.chunk.js.map",
+    "main.css": "/my-wedding/static/css/main.0e5d9a8e.chunk.css",
+    "main.js": "/my-wedding/static/js/main.1fe75942.chunk.js",
+    "main.js.map": "/my-wedding/static/js/main.1fe75942.chunk.js.map",
     "runtime-main.js": "/my-wedding/static/js/runtime-main.33362b71.js",
     "runtime-main.js.map": "/my-wedding/static/js/runtime-main.33362b71.js.map",
     "static/js/2.7a6303a8.chunk.js": "/my-wedding/static/js/2.7a6303a8.chunk.js",
     "static/js/2.7a6303a8.chunk.js.map": "/my-wedding/static/js/2.7a6303a8.chunk.js.map",
     "index.html": "/my-wedding/index.html",
-    "static/css/main.10ef8e23.chunk.css.map": "/my-wedding/static/css/main.10ef8e23.chunk.css.map",
+    "static/css/main.0e5d9a8e.chunk.css.map": "/my-wedding/static/css/main.0e5d9a8e.chunk.css.map",
     "static/js/2.7a6303a8.chunk.js.LICENSE.txt": "/my-wedding/static/js/2.7a6303a8.chunk.js.LICENSE.txt",
-    "static/media/1.4ea1b728.png": "/my-wedding/static/media/1.4ea1b728.png",
-    "static/media/2.a5b91757.png": "/my-wedding/static/media/2.a5b91757.png",
-    "static/media/3.e1fc7d94.png": "/my-wedding/static/media/3.e1fc7d94.png",
-    "static/media/4.2b204cf2.png": "/my-wedding/static/media/4.2b204cf2.png",
-    "static/media/5.c6aa1d4d.png": "/my-wedding/static/media/5.c6aa1d4d.png",
-    "static/media/6.fb18cb27.png": "/my-wedding/static/media/6.fb18cb27.png",
+    "static/media/1.c7420f61.jpeg": "/my-wedding/static/media/1.c7420f61.jpeg",
+    "static/media/2.ca744182.jpeg": "/my-wedding/static/media/2.ca744182.jpeg",
+    "static/media/3.14e763a5.jpeg": "/my-wedding/static/media/3.14e763a5.jpeg",
+    "static/media/4.a33e82d3.jpeg": "/my-wedding/static/media/4.a33e82d3.jpeg",
+    "static/media/5.52928856.jpeg": "/my-wedding/static/media/5.52928856.jpeg",
+    "static/media/6.3afadf61.jpeg": "/my-wedding/static/media/6.3afadf61.jpeg",
     "static/media/index.css": "/my-wedding/static/media/wedding-logo.d17e3d0c.png",
     "static/media/bride.ab531bf4.png": "/my-wedding/static/media/bride.ab531bf4.png",
     "static/media/groom.c87e8ade.jpg": "/my-wedding/static/media/groom.c87e8ade.jpg",
     "static/media/logo.c89c62cf.png": "/my-wedding/static/media/logo.c89c62cf.png",
-    "static/media/story.1d090748.png": "/my-wedding/static/media/story.1d090748.png",
+    "static/media/story.e2579136.jpeg": "/my-wedding/static/media/story.e2579136.jpeg",
     "static/media/where-1.1f12a5cd.jpg": "/my-wedding/static/media/where-1.1f12a5cd.jpg",
     "static/media/where-2.e86e8580.jpg": "/my-wedding/static/media/where-2.e86e8580.jpg",
     "static/media/where-3.72bfde4a.jpg": "/my-wedding/static/media/where-3.72bfde4a.jpg"
@@ -28,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.33362b71.js",
     "static/js/2.7a6303a8.chunk.js",
-    "static/css/main.10ef8e23.chunk.css",
-    "static/js/main.6a4a2647.chunk.js"
+    "static/css/main.0e5d9a8e.chunk.css",
+    "static/js/main.1fe75942.chunk.js"
   ]
 }
